@@ -13,14 +13,15 @@
 ### Proceso
 * El cuadrado del dibujo lo hice de 25 cuadrados de 0,5.
 * Tuve que multiplicar cada una de las coordenadas x20.
-* Comencé por las figuras que estan por debajo.
-  * Cuadrados, rectángulos, triángulos, circulos y cudrilatero.
+* Se me olvido sacar captura pero mas o menos así lo realice:
+1. Comencé por las figuras que estan por debajo.
+* Cuadrados, rectángulos, triángulos, circulos y cudrilatero.
   * Al pricipio me costo un poco entender las coordenadas, pero luego de entender se me hizo mas facil.   
-* Luego por las lineas y puntos.
-  * Me calzaba el triángulo verde oscuro con el cudrilatero, pero cuando hice la linea que lo atraviesa no me calzaba y tuve que correr un poco las
-   coordenadas, pero no calzo perfectamente.   
-* Terminando con los arcos.
-  * me costo un poco el orden de las coordenada del ángulo.
+2. Luego por las lineas y puntos.
+    * Me calzaba el triángulo verde oscuro con el cudrilatero, pero cuando hice la linea que lo atraviesa no me calzaba y tuve que correr un poco las
+   coordenadas, pero no calzo perfectamente.
+3. Terminando con los arcos.
+    * me costo un poco el orden de las coordenada del ángulo.
   
 ### Resultado final
 <img width="625" height="626" alt="Captura de pantalla 2026-04-10 025215" src="https://github.com/user-attachments/assets/243e1a10-1c9c-402e-921f-ee17937a0ff4" />
